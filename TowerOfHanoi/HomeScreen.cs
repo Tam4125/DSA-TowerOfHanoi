@@ -17,7 +17,7 @@ namespace TowerOfHanoi
 
         private void BtnAutoSolver_Click(object sender, EventArgs e)
         {
-            Form1 autoSolver = new Form1(this); // Pass the HomeForm so we can return to it
+            AutoSolver autoSolver = new AutoSolver(this); // Pass the HomeForm so we can return to it
             autoSolver.Show();
             this.Hide();
         }

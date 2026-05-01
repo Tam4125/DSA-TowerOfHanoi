@@ -48,9 +48,11 @@ Follow these steps to run the application locally on your machine:
 * **.NET Framework** (Make sure the .NET desktop development workload is installed)
 
 ### Installation & Execution
-1. **Clone the repository** to your local machine using Git:
+1. **Download or Clone**
+* **Download the project** as .zip file, unzip and run in the local machine
+* Or **Clone the repository** to your local machine using Git:
    ```bash
-   git clone [https://github.com/yourusername/TowerOfHanoi-DSA.git](https://github.com/yourusername/TowerOfHanoi-DSA.git)
+   git clone https://github.com/Tam4125/DSA-TowerOfHanoi.git
    ```
 
 2. **Open the Solution**: Navigate to the cloned folder and double-click the TowerOfHanoiSolution.sln file to open it in Visual Studio.

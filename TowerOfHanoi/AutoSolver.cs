@@ -8,7 +8,7 @@ using TowerOfHanoi.UI;
 
 namespace TowerOfHanoi
 {
-    public partial class Form1 : Form
+    public partial class AutoSolver : Form
     {
         private HanoiEngine gameEngine;
         private CancellationTokenSource cts;
@@ -19,7 +19,7 @@ namespace TowerOfHanoi
 
         private bool isGameWon = false;
 
-        public Form1(Form homeParent)
+        public AutoSolver(Form homeParent)
         {
             InitializeComponent();
             this.homeFormParent = homeParent;
