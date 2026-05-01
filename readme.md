@@ -35,6 +35,9 @@ The codebase is organized cleanly to separate the core logic, data structures, a
 ├── 📄 HomeScreen.cs          # The Windows Form for the main navigation menu and landing page.
 ├── 📄 InteractiveForm.cs     # The Windows Form for the playable manual game screen.
 └── 📄 Program.cs             # The main entry point that runs the program and launches the Home Screen.
+```
+
+---
 
 ## 🚀 How to Run
 
@@ -48,13 +51,14 @@ Follow these steps to run the application locally on your machine:
 1. **Clone the repository** to your local machine using Git:
    ```bash
    git clone [https://github.com/yourusername/TowerOfHanoi-DSA.git](https://github.com/yourusername/TowerOfHanoi-DSA.git)
+   ```
 
-2. Open the Solution: Navigate to the cloned folder and double-click the TowerOfHanoiSolution.sln file to open it in Visual Studio.
+2. **Open the Solution**: Navigate to the cloned folder and double-click the TowerOfHanoiSolution.sln file to open it in Visual Studio.
 
-3. Restore Dependencies: Wait a moment for Visual Studio to load the project. If prompted, allow NuGet to restore any necessary packages.
+3. **Restore Dependencies**: Wait a moment for Visual Studio to load the project. If prompted, allow NuGet to restore any necessary packages.
 
-4. Set Startup Project: Ensure that the TowerOfHanoi project is set as the active startup project (it should be bolded in your Solution Explorer).
+4. **Set Startup Project**: Ensure that the TowerOfHanoi project is set as the active startup project (it should be bolded in your Solution Explorer).
 
-5. Run the Application: Press F5 on your keyboard, or click the green Start button at the top of Visual Studio.
+5. **Run the Application**: Press F5 on your keyboard, or click the green Start button at the top of Visual Studio.
 
-6. The Main Menu will launch, allowing you to choose between Auto-Solver Mode and Interactive Mode!
+6. The **Main Menu** will launch, allowing you to choose between Auto-Solver Mode and Interactive Mode!
