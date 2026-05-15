@@ -238,14 +238,14 @@
             txtLog.Text = "";
             txtLog.TextChanged += richTextBox1_TextChanged;
             // 
-            // Form1
+            // AutoSolver
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(2140, 1471);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
-            Name = "Form1";
+            Name = "AutoSolver";
             Text = "Auto-solver Mode";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);

@@ -64,3 +64,62 @@ Follow these steps to run the application locally on your machine:
 5. **Run the Application**: Press F5 on your keyboard, or click the green Start button at the top of Visual Studio.
 
 6. The **Main Menu** will launch, allowing you to choose between Auto-Solver Mode and Interactive Mode!
+
+---
+
+# PHÂN CÔNG CÔNG VIỆC
+
+## 1. Nguyễn Thanh Tâm  
+**MSSV:** 31231020003  
+
+### Nhiệm vụ
+- Viết báo cáo phần phụ lục  
+- Xác định sơ đồ lớp  
+- Merge Code giao diện Auto-Solver Mode  
+- Cài đặt giao diện Interactive Mode  
+- Thuyết trình  
+
+### Đóng góp
+- 100%  
+
+---
+
+## 2. Nguyễn Thị Thuý Nga  
+**MSSV:** 31251023345  
+
+### Nhiệm vụ
+- Viết báo cáo chương 3, 4  
+- Cài đặt lớp MyStack  
+- Cài đặt giao diện Log Zone  
+- Làm slide chương 1, 2  
+
+### Đóng góp
+- 100%  
+
+---
+
+## 3. Lâm Mẫn Thuý  
+**MSSV:** 31251021896  
+
+### Nhiệm vụ
+- Viết báo cáo chương 1  
+- Cài đặt lớp Tower  
+- Cài đặt giao diện Graphic Zone  
+- Tổng hợp báo cáo  
+
+### Đóng góp
+- 100%  
+
+---
+
+## 4. Vũ Ngọc Minh Thư  
+**MSSV:** 31251024505  
+
+### Nhiệm vụ
+- Viết báo cáo chương 2  
+- Cài đặt lớp Disk + StackNode  
+- Cài đặt giao diện Control Zone  
+- Làm slide chương 3, 4  
+
+### Đóng góp
+- 100%  
